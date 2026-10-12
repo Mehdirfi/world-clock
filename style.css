@@ -1,0 +1,15 @@
+.container
+{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.MyClockClass
+{
+    font-size: 3rem;
+    font-weight: bold;
+    background-color: white;
+    padding: 1rem;
+}
