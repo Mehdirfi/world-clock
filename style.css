@@ -6,7 +6,15 @@
     justify-content: center;
     align-items: center;
 }
-.MyClockClass
+#date
+{
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    padding: 1rem;
+}
+#time
 {
     font-size: 3rem;
     font-weight: bold;
